@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wasiq
+ *
+ */
+module newProject {
+}
